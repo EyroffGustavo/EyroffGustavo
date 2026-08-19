@@ -11,7 +11,3 @@ Sou Gustavo e atualmente trabalho Analista de Serviços na Inventti e curso Ciê
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EyroffGustavo&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EyroffGustavo&hide_progress=true)
-
-
