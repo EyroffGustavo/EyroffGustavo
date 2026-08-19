@@ -1,5 +1,5 @@
 ## 👋 Olá!
-Sou Gustavo e atualmente trabalho Analista de Serviços na Inventti e curso Ciência de Dados pela FURB. Além disso, tenho conhecimentos em C# .NET, React e MySQL.
+Sou Gustavo e atualmente trabalho Analista de Serviços na Inventti e curso Ciência de Dados pela FURB.
 
 ## 💻 Tech Stack
 
